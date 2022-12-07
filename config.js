@@ -26,34 +26,34 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     })
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/lordagam23_' 
-global.syt = 'https://youtube.com/channel/UCbbWYVvhTHz3AzfgYz4fMgg'
-global.sgh = 'https://github.com/KazeDevID/'
-global.sgc = 'https://chat.whatsapp.com/Lg1V1A0lRRA7d9Iaq117um'
-global.swa = 'wa.me/6282217590187'
-global.stg = 't.me/KenalSayaaa'
+global.sig = 'https://instagram.com/q.c.ditya' 
+global.syt = 'https://youtube.com/@dityaastawa6595'
+global.sgh = 'https://github.com/Dityaastawa'
+global.sgc = 'https://chat.whatsapp.com/Ej8JuTdjGnA4XxLGbwlpMP'
+global.swa = 'wa.me/6285237596750'
+global.stg = '-'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
-global.ultahown = 'Maret 23 2023 00:00:01'
+global.ultahown = 'Mei 29 2023 00:00:01'
 
 /*============== PAYMENT ==============*/
-global.pdana = '082217590187'
-global.povo = '-'
-global.pgopay = '082217590187'
-global.ppulsa = '082217590187'
-global.ppulsa2 = '082217590187'
-global.psaweria = 'https://saweria.co/KazeDevID'
+global.pdana = '085792429140'
+global.povo = '085738153140'
+global.pgopay = '085792429140'
+global.ppulsa = '085792429140'
+global.ppulsa2 = '085738153140'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282217590187'
-global.nomorown = '6282217590187'
-global.namebot = 'KinakoBot'
-global.nameown = 'Lord Kaze'
+global.nomorbot = '6285792429140'
+global.nomorown = '6285237596750'
+global.namebot = 'DityaBot'
+global.nameown = 'Ditya'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282217590187', 'Lord Kaze', 'true']
+  ['6285237596750', 'Ditya', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -93,15 +93,15 @@ global.thumbWarn = 'https://i.ibb.co/wQyLDLx/kaze.jpg'
 global.intro = 'https://i.ibb.co/PxSxQhd/20221103-171638.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = `${global.nameown}`
-global.umurowner = '18'
-global.asalowner = 'Isekai'
-global.nomorowner = 'wa.me/6282217590187'
-global.pacarowner = 'Kinako chan><'
+global.umurowner = '16'
+global.asalowner = 'Bali'
+global.nomorowner = 'wa.me/6285237596750'
+global.pacarowner = '-'
 
 /*============== TEXT ==============*/
 global.wait = '_In progress, please wait..._'
 global.eror = '```GAGAL```'
-global.cptnya = `_Nih kak_\n\nJangan lupa mampir di channel *KAZEDEVID*`
+global.cptnya = `_Nih kak_\n\nJangan lupa donasi`
 global.botintro = `Hai👋 Saya Adalah Bot WhatsApp Yang Bernama ${global.namebot}, Saya di buat oleh ${global.nameown} yang menggunakan bahasa nodejs`
 global.anticall = `kamu Di blockir oleh ${global.namebot} karena telah melanggar aturan ${global.namebot}\n\n*📮Dilarang menelepon ${global.namebot}!*`
 global.antiasing = ` See You Next Time `
